@@ -2,6 +2,23 @@
 
 ## 2024
 
+### Frontend test case. The Game of life
+
+```
+- HTML 5 Canvas
+- pure JS
+- context 2D
+- context WebGl
+- web-worker
+
+```
+info(en): [en-wikipedia](https://en.wikipedia.org/wiki/The_Game_of_Life)
+info(ru): [ru-wikipedia](https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D1%80%D0%B0_%C2%AB%D0%96%D0%B8%D0%B7%D0%BD%D1%8C%C2%BB)
+
+preview: [test-game-of-life](https://dmitriys87.github.io/game-of-life/index.html)
+
+code: [test-game-of-life](https://github.com/DmitriyS87/game-of-life)
+
 ### Frontend test. Just design from figma 
 
 ```
