@@ -2,11 +2,20 @@
 
 ## 2024
 
+### Programmer test case. Compression
+
+```
+- node
+- javascript
+
+```
+code: [test-compression](https://github.com/DmitriyS87/test-compression)
+
 ### Frontend test case. The Game of life
 
 ```
 - HTML 5 Canvas
-- pure JS
+- JavaScript
 - context 2D
 - context WebGl
 - web-worker
